@@ -1,12 +1,12 @@
 {
-    "time": 1610612069.349757,
-    "noted_time": "Thu Jan 14 13:45:05 2021",
+    "time": 1610625036.623242,
+    "noted_time": "Thu Jan 14 17:20:56 2021",
     "time limit": 600,
     "currency": {
         "count": 14,
         "requests": 1,
-        "updates": 15
+        "updates": 34
     },
     "total requests": 1,
-    "total updates": 15
+    "total updates": 34
 }
