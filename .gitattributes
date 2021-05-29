@@ -2,4 +2,6 @@
 * text=auto
 Icon?
 .DS_Store
+/static_collected
+.static_collected
 static_collected
